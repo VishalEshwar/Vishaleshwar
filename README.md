@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishaleshwar</h1>
-<h3 align="center">I am a results-driven Business Analyst and Data Analyst with a passion for transforming raw data into meaningful insights.</h3>
+<h3 align="center">As an individual with a robust IT and business analysis background, my enthusiasm lies in utilizing my expertise in data-driven business analysis to drive business growth. I possess experience in both business and data analysis, with strong technical skills and proficiency in cloud services.</h3>
 
 - 🌱 I’m currently learning **Azure Cloud Services, preparing for Azure Data Engineer(DP-203)**
 
