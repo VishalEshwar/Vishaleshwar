@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishaleshwar</h1>
 <h3 align="center">I am a results-driven Business Analyst and Data Analyst with a passion for transforming raw data into meaningful insights.</h3>
 
-- 🌱 I’m currently learning **Azure Cloud Service, preparing for Azure Data Engineer(DP-203)**
+- 🌱 I’m currently learning **Azure Cloud Services, preparing for Azure Data Engineer(DP-203)**
 
 - 📫 How to reach me **vishalmurugan2898@gmail.com**
 
