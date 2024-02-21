@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **vishalmurugan2898@gmail.com**
 
+- 🤘 Top 3 Data Skills: **SQL, Python and PowerBI**
+
 - ⚡ Fun fact **I like to play chess.**
 
 <h3 align="left">Connect with me:</h3>
